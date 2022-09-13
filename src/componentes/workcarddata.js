@@ -1,6 +1,7 @@
 import pro1 from "../img/ecommerce.jpg" 
 import pro2 from "../img/libros.jpg" 
 import pro3 from "../img/eventos.jpg" 
+import pro4 from "../img/pokemon.jpg" 
 
 
 const ProCardData = [
@@ -24,6 +25,13 @@ const ProCardData = [
         texto: "Plantilla para eventos. Desarrollado con HTML, Bootstrap y JavaScript. Cuenta con secciones para registro, inicio de sesión y contacto.",
         ver: 'https://yorch19.github.io/Eventos/',
         codigo: "https://github.com/yorch19/Eventos"
+    },
+    {
+        imgsrc: pro4, 
+        titulo: "Pokemon",
+        texto: "Juego sencillo Endless de capturar pokeballs, desarrollado con HTML, CSS y JavaScript",
+        ver: 'https://yorch19.github.io/Pokemon/',
+        codigo: "https://github.com/yorch19/Pokemon"
     }
     
 
