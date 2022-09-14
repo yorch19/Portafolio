@@ -1,7 +1,9 @@
 import pro1 from "../img/ecommerce.jpg" 
 import pro2 from "../img/libros.jpg" 
 import pro3 from "../img/eventos.jpg" 
-import pro4 from "../img/pokemon.jpg" 
+import pro4 from "../img/pokemon.jpg"
+import pro5 from "../img/calculadora.jpg" 
+
 
 
 const ProCardData = [
@@ -32,6 +34,13 @@ const ProCardData = [
         texto: "Juego sencillo Endless de capturar pokeballs, desarrollado con HTML, CSS y JavaScript",
         ver: 'https://yorch19.github.io/Pokemon/',
         codigo: "https://github.com/yorch19/Pokemon"
+    },
+    {
+        imgsrc: pro5, 
+        titulo: "Calculadora",
+        texto: "Calculadora de operaciones primarias, desarrollado con HTML, CSS y JavaScript",
+        ver: 'https://yorch19.github.io/Calculadora/',
+        codigo: "https://github.com/yorch19/Calculadora"
     }
     
 
