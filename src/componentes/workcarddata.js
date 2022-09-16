@@ -3,6 +3,7 @@ import pro2 from "../img/libros.jpg"
 import pro3 from "../img/eventos.jpg" 
 import pro4 from "../img/pokemon.jpg"
 import pro5 from "../img/calculadora.jpg" 
+import pro6 from "../img/buscador.jpg" 
 
 
 
@@ -41,6 +42,13 @@ const ProCardData = [
         texto: "Calculadora de operaciones primarias, desarrollado con HTML, CSS y JavaScript",
         ver: 'https://yorch19.github.io/Calculadora/',
         codigo: "https://github.com/yorch19/Calculadora"
+    },
+    {
+        imgsrc: pro6, 
+        titulo: "SearchBar",
+        texto: "SearchBar/Buscador que muestra sugerencias conforme se ingresa texto. Desarrollado con HTML, CSS y JavaScript",
+        ver: 'yorch19.github.io/SearchBar',
+        codigo: "https://github.com/yorch19/SearchBar"
     }
     
 
