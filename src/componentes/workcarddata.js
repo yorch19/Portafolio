@@ -4,6 +4,8 @@ import pro3 from "../img/eventos.jpg"
 import pro4 from "../img/pokemon.jpg"
 import pro5 from "../img/calculadora.jpg" 
 import pro6 from "../img/buscador.jpg" 
+import pro7 from "../img/animacion.jpg" 
+
 
 
 
@@ -47,8 +49,15 @@ const ProCardData = [
         imgsrc: pro6, 
         titulo: "SearchBar",
         texto: "SearchBar/Buscador que muestra sugerencias conforme se ingresa texto. Desarrollado con HTML, CSS y JavaScript",
-        ver: 'yorch19.github.io/SearchBar',
+        ver: 'https://yorch19.github.io/SearchBar/',
         codigo: "https://github.com/yorch19/SearchBar"
+    },
+    {
+        imgsrc: pro7, 
+        titulo: "Cursor Animado",
+        texto: "Animación para cursor multicolor, se detiene después de 3 segundos de inactividad y al salir de la pantalla. Desarrollado con HTML, CSS y JavaScript",
+        ver: 'https://yorch19.github.io/Cursor_animado/',
+        codigo: "https://github.com/yorch19/Cursor_animado"
     }
     
 
